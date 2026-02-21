@@ -1,0 +1,16 @@
+body{
+font-family: 'Segoe UI', sans-serif;
+}
+
+h2{
+font-weight:600;
+}
+
+.card{
+border-radius:12px;
+}
+
+table tbody tr:hover{
+background:#f1f7ff;
+transition:0.3s;
+}

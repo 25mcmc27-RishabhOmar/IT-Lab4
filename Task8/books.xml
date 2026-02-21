@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+
+    <book>
+        <title>Wings of Fire</title>
+        <author>A.P.J. Abdul Kalam</author>
+        <genre>Biography</genre>
+        <price>299</price>
+        <date>1999-01-01</date>
+    </book>
+
+    <book>
+        <title>Ignited Minds</title>
+        <author>A.P.J. Abdul Kalam</author>
+        <genre>Motivation</genre>
+        <price>250</price>
+        <date>2002-01-01</date>
+    </book>
+
+    <book>
+        <title>India 2020</title>
+        <author>A.P.J. Abdul Kalam</author>
+        <genre>Science</genre>
+        <price>300</price>
+        <date>1998-01-01</date>
+    </book>
+
+    <book>
+        <title>The White Tiger</title>
+        <author>Aravind Adiga</author>
+        <genre>Fiction</genre>
+        <price>399</price>
+        <date>2008-01-01</date>
+    </book>
+
+    <book>
+        <title>Selection Day</title>
+        <author>Aravind Adiga</author>
+        <genre>Fiction</genre>
+        <price>350</price>
+        <date>2016-01-01</date>
+    </book>
+
+    <book>
+        <title>Half Girlfriend</title>
+        <author>Chetan Bhagat</author>
+        <genre>Romance</genre>
+        <price>199</price>
+        <date>2014-01-01</date>
+    </book>
+
+    <book>
+        <title>Five Point Someone</title>
+        <author>Chetan Bhagat</author>
+        <genre>Fiction</genre>
+        <price>180</price>
+        <date>2004-01-01</date>
+    </book>
+
+    <book>
+        <title>2 States</title>
+        <author>Chetan Bhagat</author>
+        <genre>Romance</genre>
+        <price>220</price>
+        <date>2009-01-01</date>
+    </book>
+
+    <book>
+        <title>Revolution 2020</title>
+        <author>Chetan Bhagat</author>
+        <genre>Drama</genre>
+        <price>210</price>
+        <date>2011-01-01</date>
+    </book>
+
+    <book>
+        <title>Train to Pakistan</title>
+        <author>Khushwant Singh</author>
+        <genre>History</genre>
+        <price>320</price>
+        <date>1956-01-01</date>
+    </book>
+
+    <book>
+        <title>The Company of Women</title>
+        <author>Khushwant Singh</author>
+        <genre>Fiction</genre>
+        <price>290</price>
+        <date>1999-01-01</date>
+    </book>
+
+    <book>
+        <title>The Guide</title>
+        <author>R.K. Narayan</author>
+        <genre>Classic</genre>
+        <price>275</price>
+        <date>1958-01-01</date>
+    </book>
+
+    <book>
+        <title>Malgudi Days</title>
+        <author>R.K. Narayan</author>
+        <genre>Classic</genre>
+        <price>260</price>
+        <date>1943-01-01</date>
+    </book>
+
+    <book>
+        <title>Swami and Friends</title>
+        <author>R.K. Narayan</author>
+        <genre>Classic</genre>
+        <price>240</price>
+        <date>1935-01-01</date>
+    </book>
+
+    <book>
+        <title>India After Gandhi</title>
+        <author>Ramachandra Guha</author>
+        <genre>History</genre>
+        <price>550</price>
+        <date>2007-01-01</date>
+    </book>
+
+    <book>
+        <title>The Difficulty of Being Good</title>
+        <author>Gurcharan Das</author>
+        <genre>Philosophy</genre>
+        <price>480</price>
+        <date>2009-01-01</date>
+    </book>
+
+    <book>
+        <title>The Palace of Illusions</title>
+        <author>Chitra Banerjee Divakaruni</author>
+        <genre>Mythology</genre>
+        <price>350</price>
+        <date>2008-01-01</date>
+    </book>
+
+    <book>
+        <title>Forest of Enchantments</title>
+        <author>Chitra Banerjee Divakaruni</author>
+        <genre>Mythology</genre>
+        <price>370</price>
+        <date>2019-01-01</date>
+    </book>
+
+    <book>
+        <title>The Immortals of Meluha</title>
+        <author>Amish Tripathi</author>
+        <genre>Mythology</genre>
+        <price>399</price>
+        <date>2010-01-01</date>
+    </book>
+
+    <book>
+        <title>The Secret of the Nagas</title>
+        <author>Amish Tripathi</author>
+        <genre>Mythology</genre>
+        <price>420</price>
+        <date>2011-01-01</date>
+    </book>
+
+    <book>
+        <title>The Oath of the Vayuputras</title>
+        <author>Amish Tripathi</author>
+        <genre>Mythology</genre>
+        <price>450</price>
+        <date>2013-01-01</date>
+    </book>
+
+    <book>
+        <title>Rich Dad Poor Dad</title>
+        <author>Robert Kiyosaki</author>
+        <genre>Finance</genre>
+        <price>450</price>
+        <date>1997-01-01</date>
+    </book>
+
+    <book>
+        <title>The Monk Who Sold His Ferrari</title>
+        <author>Robin Sharma</author>
+        <genre>Motivation</genre>
+        <price>330</price>
+        <date>1997-01-01</date>
+    </book>
+
+    <book>
+        <title>Who Will Cry When You Die</title>
+        <author>Robin Sharma</author>
+        <genre>Motivation</genre>
+        <price>280</price>
+        <date>1999-01-01</date>
+    </book>
+
+    <book>
+        <title>Dreamers</title>
+        <author>Snigdha Poonam</author>
+        <genre>Society</genre>
+        <price>390</price>
+        <date>2018-01-01</date>
+    </book>
+
+    <book>
+        <title>English August</title>
+        <author>Upamanyu Chatterjee</author>
+        <genre>Fiction</genre>
+        <price>310</price>
+        <date>1988-01-01</date>
+    </book>
+
+    <book>
+        <title>A Suitable Boy</title>
+        <author>Vikram Seth</author>
+        <genre>Classic</genre>
+        <price>650</price>
+        <date>1993-01-01</date>
+    </book>
+
+    <book>
+        <title>The God of Small Things</title>
+        <author>Arundhati Roy</author>
+        <genre>Fiction</genre>
+        <price>420</price>
+        <date>1997-01-01</date>
+    </book>
+
+    <book>
+        <title>Interpreter of Maladies</title>
+        <author>Jhumpa Lahiri</author>
+        <genre>Fiction</genre>
+        <price>340</price>
+        <date>1999-01-01</date>
+    </book>
+
+    <book>
+        <title>The Namesake</title>
+        <author>Jhumpa Lahiri</author>
+        <genre>Drama</genre>
+        <price>360</price>
+        <date>2003-01-01</date>
+    </book>
+
+</catalog>
